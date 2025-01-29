@@ -1,2 +1,7 @@
-$${\color{blue}Podman \space Command}$$	
-$\color{red}{\textsf{lorem ipsum}}$
+$\color{blue}{\textsf{Podman Command}}$
+
+Comandos de Podman
+
+
+\section{Buscando Imagenes}            % Create a section
+$\color{blue}{\textsf{Podman Command}}$ \Longrightarrow
